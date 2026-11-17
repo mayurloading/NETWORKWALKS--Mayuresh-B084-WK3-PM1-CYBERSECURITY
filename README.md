@@ -6,9 +6,7 @@
 
 **Week 03 Project | Cybersecurity at Networkwalks**
 
-> 📁 **Note:** All screenshots below are referenced by their exact file name and must
-> sit in the **same folder as this README** (repo root) for the images to render on
-> GitHub.
+
 
 ---
 
